@@ -1,0 +1,1 @@
+Story number 2 is rad and has been edited in the newbranch branch.
